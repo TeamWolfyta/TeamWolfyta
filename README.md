@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://teamwolfyta.xyz"><img src="./assets/profile-picture.jpg" height="25%" width="25%" style="border-radius:50%"></a>
+  <a href="https://teamwolfyta.xyz"><img src="./assets/profile-picture.jpg" height="25%" width="25%"></a>
   <h1>TeamWolfyta</h1>
 </div>
 
