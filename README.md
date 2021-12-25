@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @TeamWolfyta
-- 👀 I’m interested in Coding, Games and Music
-- 🌱 I’m currently learning Nothing, But i do plan on learning something else after i finish a project
-- 💞️ I’m looking to collaborate on Nothing as of now :D
-- 📫 How to reach me me@teamwolfyta.xyz
+<div align="center">
+
+TeamWolfyta
+
+</div>
 
 # Colours
 
-While these colours aren't strictly mine, I think I'll be using them as things like Logos, Banners, Etc.
+While these colours aren't strictly mine, I think I'll be using them for things like Logos, Banners, Etc.
 
 | #3e302f                                                           | #897d7b                                                           | #766261                                                           | #a08484                                                           | #776b74                                                           |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
